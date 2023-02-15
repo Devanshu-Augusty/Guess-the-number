@@ -18,7 +18,7 @@ else:
     elif(n % 3 == 0):
         print("Hint: Divisible by 3")
     elif(n == 5):
-        print("Hand")
+        print("Hint: Hand")
     elif(n == 7):
         print("Hint: Cricket Legend")
     elif(n == 1):
